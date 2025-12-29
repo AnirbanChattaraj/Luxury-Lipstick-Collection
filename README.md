@@ -13,7 +13,7 @@ It showcases modern UI design along with smooth interactions to provide a premiu
 
 ✔️ Fast & Lightweight
 
-🤝 Contributing
+🤝 Contributing:-
 
 Contributions are welcome!
 Feel free to fork the repo and submit a pull request.
