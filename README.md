@@ -1,7 +1,7 @@
 This project is designed to be clean, responsive, and user-friendly.
 It showcases modern UI design along with smooth interactions to provide a premium experience.
 
-💡 Features
+💡 Features:-
 
 ✔️ Responsive & Elegant UI
 
